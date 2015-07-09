@@ -36,6 +36,8 @@ type: lab
 # What does your final list look like
 
 ?: Answer here:
-[-]
+( ) ['Chad', 'Cuba', 'Greenland', 'Iraq', 'Mali', 'Oman', 'India', 'Fiji']
+(X) ['Peru', 'Laos', 'Chad', 'Cuba', 'Togo', 'Iran', 'Iraq', 'Mali', 'Oman', 'Fiji']
+( ) ['Fiji', 'Oman', 'Mali', 'Iraq', 'Iran', 'Togo', 'Cuba', 'Chad']
 
 ???
