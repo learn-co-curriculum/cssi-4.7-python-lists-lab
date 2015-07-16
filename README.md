@@ -6,7 +6,7 @@ type: lab
 ---
 ##Know Your Four Letter Countries
 <img src="https://s3.amazonaws.com/after-school-assets/globe.jpeg" align="right" width="300px" hspace="10">
-+ Create an list called `four_letter_countries` with the following countries (in this order):
++ Create a new python file called countries.py. Create a list called `four_letter_countries` with the following countries (in this order):
 	- Chad
 	- Cuba
 	- Greenland
