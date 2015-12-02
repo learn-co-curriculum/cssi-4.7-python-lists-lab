@@ -27,3 +27,5 @@
 + Add **Peru** to the start of the list
 
 # What does your final list look like
+
+<a href='https://learn.co/lessons/cssi-4.7-python-lists-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
