@@ -28,4 +28,4 @@
 
 # What does your final list look like
 
-<a href='https://learn.co/lessons/cssi-4.7-python-lists-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.7-python-lists-lab' title='Know Your Four Letter Countries'>Know Your Four Letter Countries</a> on Learn.co and start learning to code for free.</p>
